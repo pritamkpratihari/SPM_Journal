@@ -90,4 +90,68 @@ Goals for the Next Week:
 ● Learn about Risk Management and Configuration Management.
 
 
+Week 3: Feb 4 – Feb 10
+
+Date: Feb 10, 2024
+
+Key Concepts Learned:
+
+1.	Understanding Configuration Management Systems: 
+A Configuration Management System (CMS) encompasses various tools, methodologies, and guidelines designed to oversee and regulate modifications to software, hardware, documentation, and other configuration items throughout their lifespan. The main objective of a CMS is to guarantee uniformity, dependability, and traceability of configurations across diverse environments and releases.
+
+      2. 	Advantages of Utilizing a CMS:
+a. Minimizes confusion and brings about order.
+b. Coordinates the tasks required to preserve the integrity of the product.
+c. Guarantees accurate configurations of products.
+d. Reduces legal risk by documenting actions.
+e. Lowers the costs associated with the lifecycle.
+f. Ensures consistent adherence to specified requirements.
+g. Creates a stable operational environment.
+h. Improves adherence to standards.
+i. Advances the process of status accounting.
+
+3.	Components of a Configuration Management System Generally Comprise:
+
+a. Version Control System (VCS): At its heart, it handles modifications to code, documents, and other files, enabling seamless collaboration among developers by keeping a record of alterations and versions.
+
+b. Build Management: This component focuses on the automated compilation of source code, execution of tests, and the transformation of software into deployable units, ensuring consistent build and deployment processes across various settings.
+
+c. Release Management: Oversees the planning, timing, and coordination of software releases to various environments, including development, testing, staging, and production.
+
+d. Configuration Item Identification: This entails the recognition and labeling of all configuration items within the system, spanning software components, hardware devices, and documentation.
+
+e. Change Control: Manages proposals for alterations to configuration items, assesses their implications, and guarantees that changes are executed in a structured fashion.
+
+4.	Four Principal Functions of CM:
+
+a. Version Control: A critical aspect of CMS, version control manages the historical changes to code, documents, and other assets, facilitating version tracking, reversion to prior states if needed, and cooperative development without overwriting work. It supports traceability, crucial for understanding codebase evolution and pinpointing bugs.
+
+b. Configuration Identification: This function involves the recognition and labeling of system's configuration items, including software components, hardware, and documentation. A CMS ensures all parties have a unified understanding of these elements and their interrelations, crucial for dependency management and consistency maintenance.
+
+c. Change Management: CMS streamlines change management by handling change requests, documenting, evaluating impact, securing approvals, and implementing changes systematically. It safeguards against unauthorized or unplanned modifications, mitigating error risks and ensuring changes align with established policies.
+
+d. Configuration Status Accounting: This function maintains detailed, current records on the configuration and status of all items, tracking versions, locations, and statuses, along with any associated documentation, changes, or approvals. This visibility allows stakeholders to gauge change impacts, monitor project progress, and make informed decisions on software release and deployment.
+
+Reflections on Case Study/course work:
+
+Gained insights into the critical role of configuration management systems in project management and their impact on project success.
+
+Collaborative Learning:
+
+1.	Shared market analysis insights with the project team.
+2.	Identified existing intelligent tutoring systems and outlined unique selling propositions for our product, enhancing our project's market positioning.
+
+Challenges Faced:
+
+Identifying current intelligent tutoring systems in the market.
+
+Further Research/Readings:
+
+Reading chapter 6.
+
+Adjustments to Goals:
+
+Finalizing the problem identification and the market analysis documents.
+
+
 
